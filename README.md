@@ -14,6 +14,6 @@ $ python2 litescript.py
 ## Contact us
 ```
 fnugroho159@gmail.com
-https://github.com/BlackCoderCrush
+https://github.com/mrbaiz
 https://fajarbaiz.com/kontak
 ```
